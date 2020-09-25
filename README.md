@@ -7,6 +7,8 @@
 - 💬 Ask me about LaTeX, Matlab, Python ...
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatNoble&theme=buefy&layout=compact)
+
 <i>Follow me:</i><br>
 
 <a href="https://matnoble.me/wechat.svg" target="_blank"><img src="https://img.shields.io/badge/Wechat-%237BB32E.svg?&style=flat-square&logo=Wechat&logoColor=white" alt="Wechat"></a>
