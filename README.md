@@ -2,8 +2,7 @@
 
 <img align='right' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='180"'>
 
-- 🔭 I’m currently preparing for the TOEFL test
-- 🌱 I’m currently learning the program of FEM(Finite Element Methond) using FEniCS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🌱 I’m currently learning machine learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💬 Ask me about LaTeX, Matlab, Python ...
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
 
