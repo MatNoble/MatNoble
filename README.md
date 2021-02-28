@@ -12,7 +12,12 @@
 
 ![GitHub States](https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true)
 
-<i>Follow me:</i><br>
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Follow me:
 
 <a href="https://matnoble.me/wechat.svg" target="_blank"><img src="https://img.shields.io/badge/Wechat-%237BB32E.svg?&style=flat-square&logo=Wechat&logoColor=white" alt="Wechat"></a>
 <a href="https://www.zhihu.com/people/matnoble" target="_blank"><img src="https://img.shields.io/badge/Zhihu-%230084FF.svg?&style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
