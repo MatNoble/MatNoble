@@ -10,7 +10,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatNoble&theme=buefy&layout=compact)
 -->
 
-![GitHub States](https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=MatNoble&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+-->
 
 ## 📕 Latest Blog Posts
 
