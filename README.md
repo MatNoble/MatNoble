@@ -21,11 +21,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [二分法](https://matnoble.me/dsa/topics/binary-search/)
 - [滑动窗口](https://matnoble.me/dsa/topics/sliding-window/)
 - [反转链表](https://matnoble.me/dsa/reverse-linked-list/)
 - [双指针](https://matnoble.me/dsa/basic/two-pointers/)
 - [二叉树的遍历](https://matnoble.me/dsa/tree-traversal/)
-- [哈希表](https://matnoble.me/dsa/basic/hash-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
