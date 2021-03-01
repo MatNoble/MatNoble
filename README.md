@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding" height="250" align="right" style="margin: auto; margin-bottom: 20px;" />
-
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💬 Ask me about LaTeX, Matlab, Python ...
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
 
 <!--
-<img align='right' src='' width='180"'>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding" height="250" align="right" style="margin: auto; margin-bottom: 20px;" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatNoble&theme=buefy&layout=compact)
 -->
 
