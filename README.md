@@ -15,11 +15,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [栈与队列](https://matnoble.me/dsa/basic/stack-and-queue/)
 - [最长递增子序列](https://matnoble.me/dsa/top/lis/)
 - [二分法](https://matnoble.me/dsa/topics/binary-search/)
 - [滑动窗口](https://matnoble.me/dsa/topics/sliding-window/)
 - [反转链表](https://matnoble.me/dsa/reverse-linked-list/)
-- [双指针](https://matnoble.me/dsa/basic/two-pointers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
