@@ -1,8 +1,13 @@
-## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/MatNoble)
+## Hi there 👋
+
+
+<img src="https://wakatime.com/share/@6296d1bf-3479-42d9-906e-5f4f4e7add02/e7f36207-dbfa-4048-9192-857bd0c283c3.svg" alt="wakatime" height="260" align="right" style="margin: auto; margin-bottom: 100px;" />
+
 
 - 🌱 I’m currently learning machine learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💬 Ask me about LaTeX, Matlab, Python ...
+- 💬 Ask me about AI, Python, LaTeX, Matlab ...
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
