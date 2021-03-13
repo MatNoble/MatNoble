@@ -15,11 +15,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python collections 类](https://matnoble.me/tech/programming/python/collections/)
 - [动态规划 -- 基础问题](https://matnoble.me/dsa/topics/dp-basic/)
 - [判断括号合法性](https://matnoble.me/dsa/top/valid-parentheses/)
 - [栈与队列](https://matnoble.me/dsa/basic/stack-and-queue/)
 - [最长递增子序列](https://matnoble.me/dsa/top/lis/)
-- [二分法](https://matnoble.me/dsa/topics/binary-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
