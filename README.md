@@ -9,7 +9,7 @@
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true" alt="logo" height="150" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding" height="250" align="right" style="margin: auto; margin-bottom: 20px;" />
