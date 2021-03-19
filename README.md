@@ -20,11 +20,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [搜索专题](https://matnoble.me/dsa/topics/search/)
 - [动态规划 -- 背包问题](https://matnoble.me/dsa/topics/dp-knapsack/)
 - [子集，组合，全排列](https://matnoble.me/dsa/topics/backtrack/)
 - [Python collections 类](https://matnoble.me/tech/programming/python/collections/)
 - [动态规划 -- 基础问题](https://matnoble.me/dsa/topics/dp-basic/)
-- [判断括号合法性](https://matnoble.me/dsa/top/valid-parentheses/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
