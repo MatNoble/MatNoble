@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning machine learning and front-end web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💬 Ask me about AI, Python, LaTeX, Matlab ...
+- 🌱 I’m currently learning back-end development ~~and front-end web development~~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 💬 Ask me about JAVA, Python, LaTeX, Matlab ...
 - 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
 
 
