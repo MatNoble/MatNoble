@@ -18,10 +18,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Window 快捷键及 DOS 命令](https://matnoble.github.io/tech/programming/java/dos/)
-- [拒绝孤独，享受孤独](https://matnoble.github.io/life/ishare/career/)
 - [LeetCode 买卖股票问题](https://matnoble.github.io/dsa/top/stock/)
-- [搜索专题](https://matnoble.github.io/dsa/topics/search/)
 - [动态规划 -- 背包问题](https://matnoble.github.io/dsa/topics/dp-knapsack/)
+- [子集，组合，全排列](https://matnoble.github.io/dsa/topics/backtrack/)
+- [Python collections 类](https://matnoble.github.io/tech/programming/python/collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
