@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-
-- 🌱 I’m currently learning back-end development ~~and front-end web development~~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💬 Ask me about JAVA, Python, LaTeX, Matlab ...
-- 📫 How to reach me: [hustmatnoble@gmail.com](mailto:hustmatnoble@gmail.com)
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=MatNoble&show_icons=true" alt="logo" height="145" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
