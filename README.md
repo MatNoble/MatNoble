@@ -11,11 +11,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Window 快捷键及 DOS 命令](https://matnoble.github.io/tech/programming/java/dos/)
+- [开发环境配置大全](https://matnoble.github.io/tech/programming/dev-env/)
+- [Window 快捷键及 DOS 命令](https://matnoble.github.io/tech/programming/dos/)
 - [LeetCode 买卖股票问题](https://matnoble.github.io/dsa/top/stock/)
 - [子集，组合，全排列](https://matnoble.github.io/dsa/topics/backtrack/)
 - [Python collections 类](https://matnoble.github.io/tech/programming/python/collections/)
-- [动态规划 -- 基础问题](https://matnoble.github.io/dsa/topics/dp-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
