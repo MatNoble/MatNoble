@@ -11,11 +11,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark RDD 中的数学统计函数](https://matnoble.github.io/tech/spark/rdd-math-func/)
 - [MapReduce 模型](https://matnoble.github.io/tech/spark/mapreduce/)
 - [图解Spark RDD的五大特性](https://matnoble.github.io/tech/spark/rdd/)
 - [开发环境配置大全](https://matnoble.github.io/tech/programming/dev-env/)
 - [Window 快捷键及 DOS 命令](https://matnoble.github.io/tech/programming/dos/)
-- [LeetCode 买卖股票问题](https://matnoble.github.io/dsa/top/stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
