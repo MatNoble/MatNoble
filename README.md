@@ -11,11 +11,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [初见别克E5](https://matnoble.github.io/life/buick-e5-first-look/)
 - [Spark on YARN：借助 YARN 的资源管理和计算调度，打造高效的 Spark 架构](https://matnoble.github.io/tech/spark/spark-on-yarn/)
 - [Spark RDD 中的数学统计函数](https://matnoble.github.io/tech/spark/rdd-math-func/)
 - [MapReduce 模型](https://matnoble.github.io/tech/spark/mapreduce/)
 - [图解Spark RDD的五大特性](https://matnoble.github.io/tech/spark/rdd/)
-- [开发环境配置大全](https://matnoble.github.io/tech/programming/dev-env/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
