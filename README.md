@@ -11,11 +11,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [别怕，泰勒公式是纸老虎：从“以直代曲”到“指哪打哪”](https://matnoble.github.io/math/calculus/taylor-formula/)
-- [基本初等函数导数与微分：统一方法](https://matnoble.github.io/math/calculus/calculus-formula-hack/)
-- [高等数学知识图谱](https://matnoble.github.io/math/calculus/knowledge-graph/)
-- [初见别克E5](https://matnoble.github.io/life/buick-e5-first-look/)
-- [Spark on YARN：借助 YARN 的资源管理和计算调度，打造高效的 Spark 架构](https://matnoble.github.io/tech/spark/spark-on-yarn/)
+- [别怕，泰勒公式是纸老虎：从“以直代曲”到“指哪打哪”](https://blog.matnoble.top/math/calculus/taylor-formula/)
+- [基本初等函数导数与微分：统一方法](https://blog.matnoble.top/math/calculus/calculus-formula-hack/)
+- [高等数学知识图谱](https://blog.matnoble.top/math/calculus/knowledge-graph/)
+- [初见别克E5](https://blog.matnoble.top/life/buick-e5-first-look/)
+- [Spark on YARN：借助 YARN 的资源管理和计算调度，打造高效的 Spark 架构](https://blog.matnoble.top/tech/spark/spark-on-yarn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow me:
