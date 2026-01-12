@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatNoble)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72909&multiline=true&width=435&lines=MatNoble;Mathematics+as+the+Core.)](https://git.io/typing-svg)
 
 ## 📕 Latest Blog Posts
 
