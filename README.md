@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-门户网站：[Mathematics as the Core.](https://matnoble.top)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72909&multiline=true&width=435&lines=MatNoble;Mathematics+as+the+Core.)](https://matnoble.top)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72909&multiline=true&width=435&lines=MatNoble;Mathematics+as+the+Core.)](https://git.io/typing-svg)
+大学数学教师与全栈独立开发者。以数学构建逻辑，用技术驱动学习。
+
+### 🌐 数字生态矩阵 (Digital Matrix)
+
+- 🏛️ **[MatNoble 个人主站 (matnoble.top)](https://matnoble.top/)**：个人门户总枢纽、学术经历与开源项目总览。
+- 🎓 **[MatNoble 教学中心 (teach.matnoble.top)](https://teach.matnoble.top/)**：高等数学、离散数学、线性代数课件下载与 3D 几何互动实验。
+- ✍️ **[技术思考与博客 (blog.matnoble.top)](https://blog.matnoble.top/)**：数学可视化、算法思维、LaTeX 科技排版与架构设计随笔。
+- 🎙️ **[AI 语音工坊 (speak.matnoble.top)](https://speak.matnoble.top/)**：在线高拟真文字转语音平台 (TTS) 与配音导演智能体。
+- 📷 **[光影之间摄影画廊 (album.matnoble.top)](https://album.matnoble.top/)**：现代典雅暗黑微光摄影作品展厅。
+
+---
 
 ## 📕 Latest Blog Posts
 
