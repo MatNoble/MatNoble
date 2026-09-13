@@ -17,9 +17,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram 科技频道推荐：我用 AI 做了个无废话的每日脱水快讯](https://blog.matnoble.top/tech/ai/geekai-daily-intro/)
 - [初识 OpenClaw：开启 AI 智能体全渠道网关的“去壳”之旅](https://blog.matnoble.top/tech/ai/openclaw-intro/)
-- [Day 7: 矩阵的基因 —— 奇异值分解 &lpar;SVD&rpar;](https://blog.matnoble.top/math/linear-algebra/2026/07-singular-value-decomposition/)
-- [Day 6: 缠绕的算子 —— 可交换矩阵与不变子空间](https://blog.matnoble.top/math/linear-algebra/2026/06-commuting-operators/)
-- [Day 5: 无法对角化的妥协 —— Jordan 标准形与最简结构](https://blog.matnoble.top/math/linear-algebra/2026/05-jordan-form/)
-- [Day 4: 算子的灵魂 —— 特征值、几何重数与对角化](https://blog.matnoble.top/math/linear-algebra/2026/04-eigenvalues-hamilton-cayley/)
+- [Docker 环境搭建 &lpar;一&rpar;：全平台通用 MySQL 8.0 高性能部署方案](https://blog.matnoble.top/tech/docker/docker-deploy-mysql/)
+- [降维打击：微分万能公式 &lpar;一阶微分形式不变性&rpar; 及其在复杂求导中的应用](https://blog.matnoble.top/math/calculus/universal-differential-formula/)
+- [微积分积分计算与几何应用实战指南：凑微分、换元与旋转体体积](https://blog.matnoble.top/math/calculus/integral/)
 <!-- BLOG-POST-LIST:END -->
